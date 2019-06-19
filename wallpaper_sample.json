@@ -1,0 +1,72 @@
+{
+	"Wallpapers":
+        [
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Veexillum/master/01.Wallpaper.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Veexillum/master/01.Wallpaper.png",
+				"name": "Wallpaper 1"
+
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Veexillum/master/02.Wallpaper.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Veexillum/master/02.Wallpaper.png",
+				"name": "Wallpaper 2"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Veexillum/master/03.Wallpaper.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Veexillum/master/03.Wallpaper.jpg",
+				"name": "Wallpaper 3"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Veexillum/master/04.Wallpaper.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Veexillum/master/04.Wallpaper.png",
+				"name": "Wallpaper 4"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Veexillum/master/05.Wallpaper.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Veexillum/master/05.Wallpaper.jpg",
+				"name": "Wallpaper 5"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Veexillum/master/06.Wallpaper.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Veexillum/master/06.Wallpaper.jpg",
+				"name": "Wallpaper 6"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Veexillum/master/07.Wallpaper.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Veexillum/master/07.Wallpaper.jpg",
+				"name": "Wallpaper 7"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Veexillum/master/08.Wallpaper.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Veexillum/master/08.Wallpaper.jpg",
+				"name": "Wallpaper 8"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Veexillum/master/09.Wallpaper.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Veexillum/master/09.Wallpaper.jpg",
+				"name": "Wallpaper 9"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Veexillum/master/10.Wallpaper.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Veexillum/master/10.Wallpaper.png",
+				"name": "Wallpaper 10"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Veexillum/master/11.Wallpaper.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Veexillum/master/11.Wallpaper.png",
+				"name": "Wallpaper 11"
+			}
+		]
+}
